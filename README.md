@@ -1,0 +1,2 @@
+# HiveFront
+Hive React Frontend
